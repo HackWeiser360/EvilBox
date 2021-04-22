@@ -11,6 +11,12 @@
 <a href="https://github.com/HackWeiser360"><img title="License" src="https://img.shields.io/badge/License-GNU-blue.svg"></a>
 </p>
 
+![coverage](https://img.shields.io/badge/coverage-48%25-yellowgreen)
+![codacy](https://img.shields.io/badge/codacy-A-green)
+![downloads](https://img.shields.io/badge/downloads-341%2Fmonth-brightgreen)
+![version](https://img.shields.io/badge/version-1.0.0-blue)
+![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+
 EvilBox is a python Recon Toolkit script. It shows subdomain resolves to the IP addresses, company email addresses and much more ..!
 
 Tu run EvilBox you only need a domain. Then EvilBox does the rest
