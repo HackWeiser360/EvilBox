@@ -7,7 +7,7 @@
 <a href="https://github.com/HackWeiser360"><img title="Followers" src="https://img.shields.io/github/followers/HackWeiser360?color=blue&style=flat-square"></a>
 <a href="https://github.com/HackWeiser360"><img title="Stars" src="https://img.shields.io/github/stars/HackWeiser360/EvilBox?color=red&style=flat-square"></a>
 <a href="https://github.com/HackWeiser360"><img title="Forks" src="https://img.shields.io/github/forks/HackWeiser360/EvilBox?color=red&style=flat-square"></a>
-<a href="https://github.com/HackWeiser360"><img title="Watching" src="https://img.shields.io/github/watchers/HackWeiser360/EvilBox ?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/HackWeiser360"><img title="Watching" src="https://img.shields.io/github/watchers/HackWeiser360/EvilBox?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/HackWeiser360"><img title="License" src="https://img.shields.io/badge/License-GNU-blue.svg"></a>
 </p>
 
